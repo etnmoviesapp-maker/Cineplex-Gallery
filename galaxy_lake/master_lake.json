@@ -1,10 +1,10 @@
 {
   "manifest": {
-    "timestamp": 1790786266316,
+    "timestamp": 1790822150466,
     "appVersion": "2.0.0",
     "totalHalls": 5,
     "totalCategories": 4,
-    "totalMovies": 10,
+    "totalMovies": 11,
     "totalSavedVaultLinks": 0,
     "description": "YT Galaxy Master Lake Backup"
   },
@@ -260,6 +260,15 @@
       "videoUrl": "https://www.dropbox.com/scl/fi/nja9rcpia06ilaz08oxhw/Shayar-2024-Punjabi-Movie-www.movietic.site-480p.mkv?rlkey=8xt3yk2cyqkqxj98m750alfwz&st=iky0b36k&dl=1",
       "isPaid": false,
       "timestamp": 1789043643371
+    },
+    {
+      "id": "mov_1790821955575",
+      "categoryId": "cat_1",
+      "title": "Talawat Quran",
+      "thumbnailUrl": "",
+      "videoUrl": "https://rr2---sn-hvcpapo3-aixz.googlevideo.com/videoplayback?expire=1790843473&ei=8cW9aqPGL7Ko6dsPqsWS4Ac&ip=2404%3A3100%3A1811%3Ab903%3A1%3A0%3Ad71e%3A91f4&id=o-ABVsIFI5vbPLXXwTY38oOXGHlpG-q5NlOayR3Oayr9R-&itag=135&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=704&met=1790821873%2C&mh=Li&mm=18%2C29&mn=sn-hvcpapo3-aixz%2Csn-ajhju5-5o&ms=aub%2Crdu&mv=m&mvi=2&pl=44&rms=aub%2Caub&pcm2=no&initcwndbps=431250&bui=AWzQHwp-F_xgEhA2pUwff1C3H-JhiFrpY9K4kIn5OKwtP2LVoVpKmEEf9xGFzBywqiu-Nzcr-Y-hgwXE&spc=I-rgIbPKGEknyCGQ9_4FdNi4neRydPE_UtDOMgk7FHOJZq_CwtsMeL5O4A&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=31842708&dur=1380.933&lmt=1790310366971974&mt=1790821495&fvip=2&keepalive=yes&fexp=51565116%2C52112904%2C52184227&c=VISIONOS&txp=5532234&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cpcm2%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AE0s2JYwRgIhALWQvXXc8spg8A0Ou1ZPZG7fH66eY3TbK-xHIT6MdbmqAiEA65EFIxVERtqJjViU9xWaknfGUJ64em9aZKlSwN-Xq3Y%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgLKOGg-D82NiBwsIApu_hlD3x0ZMidxvCMQOAukzeOVQCIQCR6Ty3Rsczm1l22L-RtUYlofzEh_J7AvrGPCt9cB5Kbg%3D%3D&cpn=UclabVs5E-A9mFu8",
+      "isPaid": false,
+      "timestamp": 1790821955575
     },
     {
       "id": "mov_2",
